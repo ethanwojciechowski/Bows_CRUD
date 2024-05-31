@@ -1,0 +1,52 @@
+ <style>
+
+    h2 {
+        text-align: center;
+        text-shadow: 0px 2px 3px #555;
+        font-size: 40px;
+        font-family: Tahoma;
+        font-variant: small-caps;
+        color: green;
+        letter-spacing: 2px;
+        margin-bottom: 20px;
+    }
+
+    h3, p {
+        color: green;
+        font-family: tahoma;
+        margin-bottom: 10px;
+    }
+
+    h3 {
+        font-size: 24px;
+    }
+
+    p {
+        font-size: 0.9em;
+    }
+
+    table {
+        width: 100%;
+        border-spacing: 0;
+        margin-bottom: 20px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        background-color: white;
+    }
+
+    th, td {
+        border: 1px solid #ddd;
+        padding: 12px;
+        text-align: left;
+    }
+
+    th {
+        background-color: #333;
+        color: white;
+        font-size: 18px;
+    }
+
+    td {
+        font-size: 16px;
+    }
+
+    </style>
